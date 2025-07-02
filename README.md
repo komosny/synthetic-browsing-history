@@ -2,7 +2,7 @@
 
 This repository contains 500 synthetic browsing histories for 50 countries
 
-This data belongs the paper [Synthetic Browsing Histories for 50 Countries Worldwide: Datasets for Research, Development, and Education](https://www.nature.com/articles/s41597-025-04407-z)
+This dataset belongs to the paper [Synthetic Browsing Histories for 50 Countries Worldwide: Datasets for Research, Development, and Education](https://www.nature.com/articles/s41597-025-04407-z)
 
 ## Countries
 
